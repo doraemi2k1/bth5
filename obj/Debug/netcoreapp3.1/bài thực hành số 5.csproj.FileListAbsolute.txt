@@ -1,0 +1,13 @@
+D:\baitap000\bài thực hành số 5\bin\Debug\netcoreapp3.1\bài thực hành số 5.exe
+D:\baitap000\bài thực hành số 5\bin\Debug\netcoreapp3.1\bài thực hành số 5.deps.json
+D:\baitap000\bài thực hành số 5\bin\Debug\netcoreapp3.1\bài thực hành số 5.runtimeconfig.json
+D:\baitap000\bài thực hành số 5\bin\Debug\netcoreapp3.1\bài thực hành số 5.runtimeconfig.dev.json
+D:\baitap000\bài thực hành số 5\bin\Debug\netcoreapp3.1\bài thực hành số 5.dll
+D:\baitap000\bài thực hành số 5\bin\Debug\netcoreapp3.1\bài thực hành số 5.pdb
+D:\baitap000\bài thực hành số 5\obj\Debug\netcoreapp3.1\bài thực hành số 5.csprojAssemblyReference.cache
+D:\baitap000\bài thực hành số 5\obj\Debug\netcoreapp3.1\bài thực hành số 5.csproj.CoreCompileInputs.cache
+D:\baitap000\bài thực hành số 5\obj\Debug\netcoreapp3.1\bài thực hành số 5.AssemblyInfoInputs.cache
+D:\baitap000\bài thực hành số 5\obj\Debug\netcoreapp3.1\bài thực hành số 5.AssemblyInfo.cs
+D:\baitap000\bài thực hành số 5\obj\Debug\netcoreapp3.1\bài thực hành số 5.dll
+D:\baitap000\bài thực hành số 5\obj\Debug\netcoreapp3.1\bài thực hành số 5.pdb
+D:\baitap000\bài thực hành số 5\obj\Debug\netcoreapp3.1\bài thực hành số 5.genruntimeconfig.cache
